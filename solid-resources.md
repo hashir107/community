@@ -80,3 +80,10 @@ Share and read news articles, talks, and other content that reflects themes rela
 2015 - [RAND - Public Perception of Security and Privacy](https://www.rand.org/pubs/research_reports/RR704.html) 
 
 [The Baffler - 404 Page Not Found](https://thebaffler.com/salvos/404-page-not-found-wagner)
+
+
+## Useful Tutorials for Solid Development  
+This section is devoted to share technical tutorials on tools & technologies Solid is built around.
+
+An Introduction to Semantic Web, RDF, OWL, SparQL and Linked Data - [Semantic Web Tutorial](https://www.youtube.com/watch?v=e5RPhWIBcY4)
+
